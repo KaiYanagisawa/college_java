@@ -1345,3 +1345,44 @@ for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.g
 警告: Unmatched cancel notification for request id 483
 12月 31, 2022 3:29:23 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 情報: Unsupported notification method: $/setTrace
+2022.12.31 15:31:57 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:32:01 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:32:02 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+12月 31, 2022 3:32:04 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 510
+12月 31, 2022 3:46:13 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 546
+12月 31, 2022 3:46:13 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 545
+12月 31, 2022 3:46:44 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 575
+2022.12.31 15:47:35 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:47:49 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:48:04 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:48:58 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:49:00 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:49:16 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:49:25 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:49:29 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:49:59 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:50:07 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:50:16 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:50:26 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:50:27 INFO  time: code lens generation in 1.84s
+2022.12.31 15:50:34 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:50:36 INFO  time: code lens generation in 1.99s
+2022.12.31 15:50:37 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:50:38 INFO  time: code lens generation in 1.38s
+2022.12.31 15:50:43 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:50:47 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:50:51 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:51:17 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:51:21 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:51:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:51:35 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:51:38 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:51:50 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:51:56 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 15:52:05 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+12月 31, 2022 4:01:08 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1087
