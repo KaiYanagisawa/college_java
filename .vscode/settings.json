@@ -1,0 +1,9 @@
+{
+    "[java]": {
+        "editor.formatOnSaveMode": "modificationsIfAvailable",
+        "editor.formatOnType": true
+    },
+    "files.watcherExclude": {
+        "**/target": true
+    }
+}

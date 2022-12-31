@@ -1,0 +1,1347 @@
+2022.12.16 11:21:43 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yanagisawakai/college2022_2/java/.metals/lsp.trace.json or /Users/yanagisawakai/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.12.16 11:21:45 INFO  logging to file /Users/yanagisawakai/college2022_2/java/.metals/metals.log
+2022.12.16 11:21:45 INFO  Started: Metals version 0.11.9 in workspace '/Users/yanagisawakai/college2022_2/java' for client Visual Studio Code 1.74.0.
+2022.12.16 11:21:50 INFO  time: initialize in 5.82s
+2022.12.16 11:22:00 WARN  Build server is not auto-connectable.
+2022.12.16 11:22:00 WARN  no build tool detected in workspace '/Users/yanagisawakai/college2022_2/java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.16 11:22:00 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week8/TaxCheck2.java
+2022.12.16 11:22:13 INFO  shutting down Metals
+2022.12.16 11:23:45 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yanagisawakai/college2022_2/java/.metals/lsp.trace.json or /Users/yanagisawakai/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.12.16 11:23:46 INFO  logging to file /Users/yanagisawakai/college2022_2/java/.metals/metals.log
+2022.12.16 11:23:46 INFO  Started: Metals version 0.11.9 in workspace '/Users/yanagisawakai/college2022_2/java' for client Visual Studio Code 1.74.1.
+2022.12.16 11:23:51 INFO  time: initialize in 4.44s
+2022.12.16 11:24:02 WARN  Build server is not auto-connectable.
+2022.12.16 11:24:02 WARN  no build tool detected in workspace '/Users/yanagisawakai/college2022_2/java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.16 11:24:02 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week8/TaxCheck2.java
+12月 16, 2022 11:24:15 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2
+12月 16, 2022 11:30:43 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+2022.12.21 11:59:55 INFO  shutting down Metals
+2022.12.21 12:01:39 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yanagisawakai/college2022_2/java/.metals/lsp.trace.json or /Users/yanagisawakai/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.12.21 12:01:41 INFO  logging to file /Users/yanagisawakai/college2022_2/java/.metals/metals.log
+2022.12.21 12:01:41 INFO  Started: Metals version 0.11.9 in workspace '/Users/yanagisawakai/college2022_2/java' for client Visual Studio Code 1.74.2.
+2022.12.21 12:01:45 INFO  time: initialize in 4.01s
+2022.12.21 12:01:55 WARN  Build server is not auto-connectable.
+2022.12.21 12:01:55 WARN  no build tool detected in workspace '/Users/yanagisawakai/college2022_2/java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.21 12:01:55 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week8/TaxCheck2.java
+12月 21, 2022 12:01:56 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 3
+12月 21, 2022 12:01:56 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1
+12月 21, 2022 12:02:13 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 6
+2022.12.23 12:38:00 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yanagisawakai/college2022_2/java/.metals/lsp.trace.json or /Users/yanagisawakai/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.12.23 12:38:01 INFO  logging to file /Users/yanagisawakai/college2022_2/java/.metals/metals.log
+2022.12.23 12:38:01 INFO  Started: Metals version 0.11.9 in workspace '/Users/yanagisawakai/college2022_2/java' for client Visual Studio Code 1.74.2.
+2022.12.23 12:38:11 INFO  time: initialize in 9.59s
+2022.12.23 12:38:28 WARN  Build server is not auto-connectable.
+2022.12.23 12:38:28 WARN  no build tool detected in workspace '/Users/yanagisawakai/college2022_2/java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.23 12:38:28 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week8/TaxCheck2.java
+2022.12.23 12:38:34 INFO  time: code lens generation in 5.38s
+12月 23, 2022 12:38:36 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+2022.12.31 09:51:30 INFO  time: code lens generation in 1.17s
+2022.12.31 09:55:05 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+12月 31, 2022 9:55:23 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 8 out of bounds for char[7]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 8 out of bounds for char[7]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 8 out of bounds for char[7]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:25 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 13 out of bounds for char[12]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 13 out of bounds for char[12]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 13 out of bounds for char[12]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:25 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 15 out of bounds for char[14]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 15 out of bounds for char[14]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 15 out of bounds for char[14]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:26 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 16 out of bounds for char[15]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 16 out of bounds for char[15]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 16 out of bounds for char[15]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:26 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 15 out of bounds for char[14]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 15 out of bounds for char[14]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 15 out of bounds for char[14]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:27 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 16 out of bounds for char[15]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 16 out of bounds for char[15]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 16 out of bounds for char[15]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:27 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 17 out of bounds for char[16]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 17 out of bounds for char[16]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 17 out of bounds for char[16]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:28 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 16 out of bounds for char[15]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 16 out of bounds for char[15]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 16 out of bounds for char[15]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:28 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 17 out of bounds for char[16]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 17 out of bounds for char[16]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 17 out of bounds for char[16]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:29 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 18 out of bounds for char[17]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 18 out of bounds for char[17]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 18 out of bounds for char[17]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getRawTokenSource(PublicScanner.java:597)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:73)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:29 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 19 out of bounds for char[18]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 19 out of bounds for char[18]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 19 out of bounds for char[18]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getRawTokenSource(PublicScanner.java:597)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:83)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:32 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 25 out of bounds for char[24]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 25 out of bounds for char[24]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 25 out of bounds for char[24]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:32 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 26 out of bounds for char[25]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 26 out of bounds for char[25]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 26 out of bounds for char[25]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:33 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 28 out of bounds for char[27]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 28 out of bounds for char[27]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 28 out of bounds for char[27]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:33 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 29 out of bounds for char[28]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 29 out of bounds for char[28]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 29 out of bounds for char[28]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:33 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 30 out of bounds for char[29]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 30 out of bounds for char[29]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 30 out of bounds for char[29]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:34 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 31 out of bounds for char[30]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 31 out of bounds for char[30]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 31 out of bounds for char[30]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:35 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 34 out of bounds for char[33]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 34 out of bounds for char[33]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 34 out of bounds for char[33]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:36 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 35 out of bounds for char[34]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 35 out of bounds for char[34]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 35 out of bounds for char[34]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:37 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 36 out of bounds for char[35]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 36 out of bounds for char[35]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 36 out of bounds for char[35]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:38 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 40 out of bounds for char[39]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 40 out of bounds for char[39]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 40 out of bounds for char[39]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:39 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 38 out of bounds for char[37]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 38 out of bounds for char[37]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 38 out of bounds for char[37]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:39 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 39 out of bounds for char[38]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 39 out of bounds for char[38]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 39 out of bounds for char[38]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:41 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 40 out of bounds for char[39]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 40 out of bounds for char[39]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 40 out of bounds for char[39]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:42 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 44 out of bounds for char[43]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 44 out of bounds for char[43]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 44 out of bounds for char[43]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getCurrentTokenSource(PublicScanner.java:496)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.swallowUntilSemicolon$1(JavaFoldingRangeExtractor.scala:52)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:76)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:42 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 45 out of bounds for char[44]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 45 out of bounds for char[44]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 45 out of bounds for char[44]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getRawTokenSource(PublicScanner.java:597)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:73)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:43 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 46 out of bounds for char[45]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 46 out of bounds for char[45]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 46 out of bounds for char[45]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getRawTokenSource(PublicScanner.java:597)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:83)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:43 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 47 out of bounds for char[46]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 47 out of bounds for char[46]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 47 out of bounds for char[46]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getRawTokenSource(PublicScanner.java:597)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:83)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:57 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 46 out of bounds for char[45]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 46 out of bounds for char[45]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 46 out of bounds for char[45]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getRawTokenSource(PublicScanner.java:597)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:83)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+12月 31, 2022 9:55:58 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 47 out of bounds for char[46]
+java.util.concurrent.CompletionException: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 47 out of bounds for char[46]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: arraycopy: last source index 47 out of bounds for char[46]
+	at java.base/java.lang.System.arraycopy(Native Method)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getRawTokenSource(PublicScanner.java:597)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gatherImportLines$1(JavaFoldingRangeExtractor.scala:83)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:123)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2022.12.31 09:56:16 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 09:56:17 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: 型の開始が不正です
+this.subjectName = sn; 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: ';'がありません
+this.subjectName = sn; 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: <identifier>がありません
+this.subjectName = sn; 
+                ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: 型の開始が不正です
+this.point = p; }  // subjectName, pointのゲッター 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: ';'がありません
+this.point = p; }  // subjectName, pointのゲッター 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: <identifier>がありません
+this.point = p; }  // subjectName, pointのゲッター 
+          ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:12: エラー: class, interface, enumまたはrecordがありません
+public String getSubjectName(){ 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:13: エラー: class, interface, enumまたはrecordがありません
+return subjectName; } 
+                    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:14: エラー: class, interface, enumまたはrecordがありません
+public int getPoint(){ 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:15: エラー: class, interface, enumまたはrecordがありません
+return point; } }  //  学生クラス 
+              ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:17: エラー: 型の開始が不正です
+this.name = n; 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:17: エラー: ';'がありません
+this.name = n; 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:17: エラー: <identifier>がありません
+this.name = n; 
+         ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:18: エラー: 型の開始が不正です
+this.sList = sl; }  //  学生の科目情報を返すメソッド 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:18: エラー: ';'がありません
+this.sList = sl; }  //  学生の科目情報を返すメソッド 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:18: エラー: <identifier>がありません
+this.sList = sl; }  //  学生の科目情報を返すメソッド 
+          ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:19: エラー: class, interface, enumまたはrecordがありません
+public String getInfo(){ String result = ""; result += "Name:" + name + "\n"; 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:19: エラー: class, interface, enumまたはrecordがありません
+public String getInfo(){ String result = ""; result += "Name:" + name + "\n"; 
+                                             ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; } } 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; } } 
+            ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; } } 
+                           ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; } } 
+                                                       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; } } 
+                                                                                                                             ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; } } 
+                                                                                                                                              ^
+エラー24個
+2022.12.31 09:57:09 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 09:57:10 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: 型の開始が不正です
+this.subjectName = sn; 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: ';'がありません
+this.subjectName = sn; 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: <identifier>がありません
+this.subjectName = sn; 
+                ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: 型の開始が不正です
+this.point = p; }  // subjectName, pointのゲッター 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: ';'がありません
+this.point = p; }  // subjectName, pointのゲッター 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: <identifier>がありません
+this.point = p; }  // subjectName, pointのゲッター 
+          ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:12: エラー: class, interface, enumまたはrecordがありません
+public String getSubjectName(){ 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:13: エラー: class, interface, enumまたはrecordがありません
+return subjectName; } 
+                    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:14: エラー: class, interface, enumまたはrecordがありません
+public int getPoint(){ 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:15: エラー: class, interface, enumまたはrecordがありません
+return point; } }  //  学生クラス 
+              ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:17: エラー: 型の開始が不正です
+this.name = n; 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:17: エラー: ';'がありません
+this.name = n; 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:17: エラー: <identifier>がありません
+this.name = n; 
+         ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:18: エラー: 型の開始が不正です
+this.sList = sl; }  //  学生の科目情報を返すメソッド 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:18: エラー: ';'がありません
+this.sList = sl; }  //  学生の科目情報を返すメソッド 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:18: エラー: <identifier>がありません
+this.sList = sl; }  //  学生の科目情報を返すメソッド 
+          ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:19: エラー: class, interface, enumまたはrecordがありません
+public String getInfo(){ String result = ""; result += "Name:" + name + "\n"; 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:19: エラー: class, interface, enumまたはrecordがありません
+public String getInfo(){ String result = ""; result += "Name:" + name + "\n"; 
+                                             ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+            ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                           ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                                                                                             ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                                                                                                              ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:26: エラー: '\u2462'は不正な文字です
+studentListに格納   ③  } catch (FileNotFoundException e) {    System.out.println("FileReaderから投げられた例外"+e);     } catch (IOException e) {    System.out.println("readLineから投げられた例外"+e);     }  for (StudentAdapter sa: studentList) {    sa.printInfo();    System.out.println("３教科の平均点:" + sa.getAverage() + "\n");   } } } 
+                 ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:26: エラー: 文ではありません
+studentListに格納   ③  } catch (FileNotFoundException e) {    System.out.println("FileReaderから投げられた例外"+e);     } catch (IOException e) {    System.out.println("readLineから投げられた例外"+e);     }  for (StudentAdapter sa: studentList) {    sa.printInfo();    System.out.println("３教科の平均点:" + sa.getAverage() + "\n");   } } } 
+^
+エラー26個
+12月 31, 2022 9:57:19 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 238
+2022.12.31 09:57:24 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 09:57:25 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: 型の開始が不正です
+this.subjectName = sn; 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: ';'がありません
+this.subjectName = sn; 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: <identifier>がありません
+this.subjectName = sn; 
+                ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: 型の開始が不正です
+this.point = p; }  // subjectName, pointのゲッター 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: ';'がありません
+this.point = p; }  // subjectName, pointのゲッター 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: <identifier>がありません
+this.point = p; }  // subjectName, pointのゲッター 
+          ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:12: エラー: class, interface, enumまたはrecordがありません
+public String getSubjectName(){ 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:13: エラー: class, interface, enumまたはrecordがありません
+return subjectName; } 
+                    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:14: エラー: class, interface, enumまたはrecordがありません
+public int getPoint(){ 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:15: エラー: class, interface, enumまたはrecordがありません
+return point; } }  //  学生クラス 
+              ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:17: エラー: 型の開始が不正です
+this.name = n; 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:17: エラー: ';'がありません
+this.name = n; 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:17: エラー: <identifier>がありません
+this.name = n; 
+         ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:18: エラー: 型の開始が不正です
+this.sList = sl; }  //  学生の科目情報を返すメソッド 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:18: エラー: ';'がありません
+this.sList = sl; }  //  学生の科目情報を返すメソッド 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:18: エラー: <identifier>がありません
+this.sList = sl; }  //  学生の科目情報を返すメソッド 
+          ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:19: エラー: class, interface, enumまたはrecordがありません
+public String getInfo(){ String result = ""; result += "Name:" + name + "\n"; 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:19: エラー: class, interface, enumまたはrecordがありません
+public String getInfo(){ String result = ""; result += "Name:" + name + "\n"; 
+                                             ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+            ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                           ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                                                                                             ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                                                                                                              ^
+エラー24個
+2022.12.31 09:58:24 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 09:58:25 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: 型の開始が不正です
+this.subjectName = sn; 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: ';'がありません
+this.subjectName = sn; 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: <identifier>がありません
+this.subjectName = sn; 
+                ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: 型の開始が不正です
+this.point = p; }  // subjectName, pointのゲッター 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: ';'がありません
+this.point = p; }  // subjectName, pointのゲッター 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: <identifier>がありません
+this.point = p; }  // subjectName, pointのゲッター 
+          ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:12: エラー: class, interface, enumまたはrecordがありません
+public String getSubjectName(){ 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:13: エラー: class, interface, enumまたはrecordがありません
+return subjectName; } 
+                    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:14: エラー: class, interface, enumまたはrecordがありません
+public int getPoint(){ 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:15: エラー: class, interface, enumまたはrecordがありません
+return point; } }  //  学生クラス 
+              ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: 型の開始が不正です
+this.name=n;this.sList=sl;
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: ';'がありません
+this.name=n;this.sList=sl;
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: <identifier>がありません
+this.name=n;this.sList=sl;
+         ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: 型の開始が不正です
+this.name=n;this.sList=sl;
+            ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: ';'がありません
+this.name=n;this.sList=sl;
+                ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: <identifier>がありません
+this.name=n;this.sList=sl;
+                      ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:23: エラー: class, interface, enumまたはrecordがありません
+public String getInfo(){ String result = ""; result += "Name:" + name + "\n"; 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:23: エラー: class, interface, enumまたはrecordがありません
+public String getInfo(){ String result = ""; result += "Name:" + name + "\n"; 
+                                             ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:24: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:24: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+            ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:24: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                           ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:24: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:24: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                                                                                             ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:24: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                                                                                                              ^
+エラー24個
+2022.12.31 09:58:32 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 09:58:32 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: 型の開始が不正です
+this.subjectName = sn; 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: ';'がありません
+this.subjectName = sn; 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: <identifier>がありません
+this.subjectName = sn; 
+                ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: 型の開始が不正です
+this.point = p; }  // subjectName, pointのゲッター 
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: ';'がありません
+this.point = p; }  // subjectName, pointのゲッター 
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:11: エラー: <identifier>がありません
+this.point = p; }  // subjectName, pointのゲッター 
+          ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:12: エラー: class, interface, enumまたはrecordがありません
+public String getSubjectName(){ 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:13: エラー: class, interface, enumまたはrecordがありません
+return subjectName; } 
+                    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:14: エラー: class, interface, enumまたはrecordがありません
+public int getPoint(){ 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:15: エラー: class, interface, enumまたはrecordがありません
+return point; } }  //  学生クラス 
+              ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: 型の開始が不正です
+this.name=n;this.sList=sl;
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: ';'がありません
+this.name=n;this.sList=sl;
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: <identifier>がありません
+this.name=n;this.sList=sl;
+         ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: 型の開始が不正です
+this.name=n;this.sList=sl;
+            ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: ';'がありません
+this.name=n;this.sList=sl;
+                ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:20: エラー: <identifier>がありません
+this.name=n;this.sList=sl;
+                      ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:23: エラー: class, interface, enumまたはrecordがありません
+public String getInfo(){ String result = ""; result += "Name:" + name + "\n"; 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:23: エラー: class, interface, enumまたはrecordがありません
+public String getInfo(){ String result = ""; result += "Name:" + name + "\n"; 
+                                             ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:24: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:24: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+            ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:24: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                           ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:24: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:24: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                                                                                             ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:24: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                                                                                                              ^
+エラー24個
+2022.12.31 09:58:46 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 09:58:47 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:21: エラー: 型の開始が不正です
+this.name=n;this.sList=sl;
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:21: エラー: ';'がありません
+this.name=n;this.sList=sl;
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:21: エラー: <identifier>がありません
+this.name=n;this.sList=sl;
+         ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:21: エラー: 型の開始が不正です
+this.name=n;this.sList=sl;
+            ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:21: エラー: ';'がありません
+this.name=n;this.sList=sl;
+                ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:21: エラー: <identifier>がありません
+this.name=n;this.sList=sl;
+                      ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:24: エラー: class, interface, enumまたはrecordがありません
+public String getInfo(){ String result = ""; result += "Name:" + name + "\n"; 
+       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:24: エラー: class, interface, enumまたはrecordがありません
+public String getInfo(){ String result = ""; result += "Name:" + name + "\n"; 
+                                             ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:25: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:25: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+            ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:25: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                           ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:25: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                       ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:25: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                                                                                             ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:25: エラー: class, interface, enumまたはrecordがありません
+for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.getSubjectName() + "  点数:" + s.getPoint() + "\n"; } return result; }
+                                                                                                                                              ^
+エラー14個
+2022.12.31 09:58:50 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 09:59:00 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 09:59:06 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 09:59:09 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 09:59:10 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 09:59:10 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 09:59:11 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+12月 31, 2022 3:28:48 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 483
+12月 31, 2022 3:29:23 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
