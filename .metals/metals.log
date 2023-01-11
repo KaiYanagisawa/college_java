@@ -1386,3 +1386,444 @@ for(int i=0;i<sList.length;i++){ Subject s = sList[i]; result += "科目:" + s.g
 2022.12.31 15:52:05 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
 12月 31, 2022 4:01:08 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 警告: Unmatched cancel notification for request id 1087
+2022.12.31 19:06:45 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week8/TaxCheck.java
+12月 31, 2022 7:06:45 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1108
+12月 31, 2022 7:06:45 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1109
+2022.12.31 19:06:45 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week6/ScheduleManager.java
+2022.12.31 19:06:47 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week6/LectureSchedule.java
+2022.12.31 19:06:50 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week6/ReportSchedule.java
+2022.12.31 19:09:11 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 19:09:24 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+12月 31, 2022 7:12:40 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1179
+2022.12.31 19:26:35 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+12月 31, 2022 7:30:40 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1257
+12月 31, 2022 7:30:47 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1263
+12月 31, 2022 8:06:18 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1449
+12月 31, 2022 8:07:22 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1488
+2022.12.31 20:08:51 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 20:08:53 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:65: エラー: 文の開始が不正です
+        } catch (FileNotFoundException e) {
+        ^
+エラー1個
+2022.12.31 20:09:27 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2022.12.31 20:11:34 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 08, 2023 3:36:18 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1766
+2023.01.08 15:37:08 INFO  shutting down Metals
+2023.01.08 15:38:28 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yanagisawakai/college2022_2/java/.metals/lsp.trace.json or /Users/yanagisawakai/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.01.08 15:38:29 INFO  logging to file /Users/yanagisawakai/college2022_2/java/.metals/metals.log
+2023.01.08 15:38:29 INFO  Started: Metals version 0.11.9 in workspace '/Users/yanagisawakai/college2022_2/java' for client Visual Studio Code 1.74.2.
+2023.01.08 15:38:33 INFO  time: initialize in 4s
+2023.01.08 15:38:40 WARN  Build server is not auto-connectable.
+2023.01.08 15:38:40 WARN  no build tool detected in workspace '/Users/yanagisawakai/college2022_2/java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.01.08 15:38:40 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 15:38:43 INFO  time: code lens generation in 2.98s
+2023.01.08 15:46:17 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 08, 2023 3:46:18 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 34
+2023.01.08 15:46:40 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 15:52:59 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 08, 2023 3:59:29 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 295
+2023.01.08 15:59:33 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 15:59:37 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 16:13:39 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 16:13:54 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 08, 2023 4:19:21 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 479
+1月 08, 2023 4:20:00 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 525
+2023.01.08 16:20:19 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 16:20:20 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: =がありません
+    Average();
+    ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:10: エラー: <identifier>がありません
+    Average();
+           ^
+エラー2個
+1月 08, 2023 4:20:22 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 596
+2023.01.08 16:20:24 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 16:21:17 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 16:21:41 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 16:21:50 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 16:21:51 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:63: エラー: '\u3000'は不正な文字です
+    public　double getAverage(){}
+          ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:63: エラー: 無効なメソッド宣言です。戻り値の型が必要です。
+    public　double getAverage(){}
+                  ^
+エラー2個
+2023.01.08 16:21:53 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 16:22:05 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 16:27:10 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 16:29:40 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 16:30:57 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 17:00:32 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 08, 2023 5:05:10 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1329
+2023.01.08 17:05:23 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 17:05:47 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 17:05:53 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 08, 2023 5:18:05 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1497
+1月 08, 2023 5:24:06 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1532
+1月 08, 2023 5:47:54 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1814
+1月 08, 2023 5:52:17 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1869
+1月 08, 2023 5:52:17 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1870
+1月 08, 2023 5:53:08 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1926
+1月 08, 2023 5:53:30 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1948
+2023.01.08 17:53:51 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 08, 2023 5:56:02 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2112
+2023.01.08 17:59:06 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 08, 2023 6:06:23 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2308
+1月 08, 2023 6:18:48 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2445
+2023.01.08 18:21:13 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 18:21:14 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:58: エラー: 文ではありません
+        String 
+        ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:58: エラー: ';'がありません
+        String 
+              ^
+エラー2個
+2023.01.08 18:21:30 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 18:41:05 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 08, 2023 6:41:33 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2712
+2023.01.08 18:44:51 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 18:46:02 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 18:50:47 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.08 18:50:48 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:61: エラー: 式の開始が不正です
+        for(int i=0;i<;i++){
+                      ^
+エラー1個
+1月 08, 2023 6:55:37 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 3125
+2023.01.08 18:58:04 WARN  Cannot tokenize Java file file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChange(MetalsLanguageServer.scala:1244)
+	at jdk.internal.reflect.GeneratedMethodAccessor4.invoke(null)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.01.08 18:58:04 WARN  Cannot tokenize Java file file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:62)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1744)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1742)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.01.08 18:58:04 WARN  Cannot tokenize Java file file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1744)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1742)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.01.08 18:58:07 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.09 11:52:07 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.09 11:53:07 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.09 12:27:35 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.09 12:27:41 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.09 12:29:12 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.09 12:29:21 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.09 12:35:41 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 09, 2023 12:37:39 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 3819
+2023.01.09 12:37:54 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 09, 2023 12:38:33 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 3903
+1月 09, 2023 12:38:33 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 3904
+2023.01.09 12:38:36 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.09 12:38:38 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 09, 2023 12:43:10 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+2023.01.09 12:43:16 INFO  shutting down Metals
+2023.01.09 12:44:27 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yanagisawakai/college2022_2/java/.metals/lsp.trace.json or /Users/yanagisawakai/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.01.09 12:44:28 INFO  logging to file /Users/yanagisawakai/college2022_2/java/.metals/metals.log
+2023.01.09 12:44:28 INFO  Started: Metals version 0.11.10 in workspace '/Users/yanagisawakai/college2022_2/java' for client Visual Studio Code 1.74.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/yanagisawakai/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.09 12:44:29 INFO  time: initialize in 0.94s
+2023.01.09 12:44:31 WARN  Build server is not auto-connectable.
+2023.01.09 12:44:31 WARN  no build tool detected in workspace '/Users/yanagisawakai/college2022_2/java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.01.09 12:44:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.09 12:48:38 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 09, 2023 12:49:13 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 38
+2023.01.09 12:55:13 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.09 12:56:31 INFO  shutting down Metals
+2023.01.09 12:56:52 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yanagisawakai/college2022_2/java/.metals/lsp.trace.json or /Users/yanagisawakai/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.01.09 12:56:54 INFO  logging to file /Users/yanagisawakai/college2022_2/java/.metals/metals.log
+2023.01.09 12:56:54 INFO  Started: Metals version 0.11.10 in workspace '/Users/yanagisawakai/college2022_2/java' for client Visual Studio Code 1.74.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/yanagisawakai/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.09 12:56:58 INFO  time: initialize in 3.92s
+2023.01.09 12:57:06 WARN  Build server is not auto-connectable.
+2023.01.09 12:57:06 WARN  no build tool detected in workspace '/Users/yanagisawakai/college2022_2/java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.01.09 12:57:06 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.09 12:57:09 INFO  time: code lens generation in 2.58s
+1月 10, 2023 9:27:13 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 20
+1月 11, 2023 12:50:58 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 23
+1月 11, 2023 1:02:14 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 489
+2023.01.11 01:03:08 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 01:03:08 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:90: エラー: 文ではありません
+                    subject[i-1]
+                           ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:90: エラー: ';'がありません
+                    subject[i-1]
+                                ^
+エラー2個
+1月 11, 2023 1:03:16 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 598
+2023.01.11 01:03:22 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 01:03:22 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:90: エラー: 文ではありません
+                    subject[i-1]
+                           ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:90: エラー: ';'がありません
+                    subject[i-1]
+                                ^
+エラー2個
+2023.01.11 01:03:26 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 01:03:27 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:90: エラー: 文ではありません
+                    subject[i-1]
+                           ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:90: エラー: ';'がありません
+                    subject[i-1]
+                                ^
+エラー2個
+1月 11, 2023 1:06:24 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 730
+1月 11, 2023 1:07:48 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 759
+2023.01.11 01:08:21 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 01:14:55 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 01:16:24 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 01:18:16 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 01:20:29 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 1:20:51 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1802
+2023.01.11 01:21:03 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 01:24:03 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 01:24:04 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:91: エラー: 配列の大きさが指定されていません
+                Subject[] slist = new Subject[] ( math_points,english_points, japanese_points );
+                                                ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:91: エラー: 文ではありません
+                Subject[] slist = new Subject[] ( math_points,english_points, japanese_points );
+                                                  ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:91: エラー: ';'がありません
+                Subject[] slist = new Subject[] ( math_points,english_points, japanese_points );
+                                                             ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:91: エラー: 文ではありません
+                Subject[] slist = new Subject[] ( math_points,english_points, japanese_points );
+                                                              ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:91: エラー: ';'がありません
+                Subject[] slist = new Subject[] ( math_points,english_points, japanese_points );
+                                                                            ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:91: エラー: 文ではありません
+                Subject[] slist = new Subject[] ( math_points,english_points, japanese_points );
+                                                                              ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:91: エラー: ';'がありません
+                Subject[] slist = new Subject[] ( math_points,english_points, japanese_points );
+                                                                                             ^
+エラー7個
+2023.01.11 01:24:35 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 7:29:35 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2079
+1月 11, 2023 7:35:56 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2092
+2023.01.11 19:36:56 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 19:38:33 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 19:38:34 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:91: エラー: 配列の大きさが指定されていません
+                Subject[] slist = new Subject[] ( math_points,english_points, japanese_points );
+                                                ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:91: エラー: 文ではありません
+                Subject[] slist = new Subject[] ( math_points,english_points, japanese_points );
+                                                  ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:91: エラー: ';'がありません
+                Subject[] slist = new Subject[] ( math_points,english_points, japanese_points );
+                                                             ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:91: エラー: 文ではありません
+                Subject[] slist = new Subject[] ( math_points,english_points, japanese_points );
+                                                              ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:91: エラー: ';'がありません
+                Subject[] slist = new Subject[] ( math_points,english_points, japanese_points );
+                                                                            ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:91: エラー: 文ではありません
+                Subject[] slist = new Subject[] ( math_points,english_points, japanese_points );
+                                                                              ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:91: エラー: ';'がありません
+                Subject[] slist = new Subject[] ( math_points,english_points, japanese_points );
+                                                                                             ^
+エラー7個
+2023.01.11 19:39:22 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 7:50:23 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2285
+2023.01.11 19:50:29 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 19:52:47 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 19:52:47 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:59: エラー: 型の開始が不正です
+    super();
+    ^
+エラー1個
+2023.01.11 19:53:07 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 7:55:01 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2522
+2023.01.11 19:56:57 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 7:57:06 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2626
+2023.01.11 19:57:10 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 19:58:43 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 19:58:43 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 19:58:44 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 7:59:10 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+1月 11, 2023 7:59:17 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2702
+2023.01.11 19:59:28 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 19:59:43 INFO  shutting down Metals
+2023.01.11 20:00:02 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yanagisawakai/college2022_2/java/.metals/lsp.trace.json or /Users/yanagisawakai/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.01.11 20:00:04 INFO  logging to file /Users/yanagisawakai/college2022_2/java/.metals/metals.log
+2023.01.11 20:00:04 INFO  Started: Metals version 0.11.10 in workspace '/Users/yanagisawakai/college2022_2/java' for client Visual Studio Code 1.74.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/yanagisawakai/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.11 20:00:09 INFO  time: initialize in 5.54s
+2023.01.11 20:00:16 WARN  Build server is not auto-connectable.
+2023.01.11 20:00:16 WARN  no build tool detected in workspace '/Users/yanagisawakai/college2022_2/java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+1月 11, 2023 8:00:16 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1
+1月 11, 2023 8:00:16 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 3
+2023.01.11 20:00:16 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:00:19 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:00:22 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:00:24 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:00:29 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:00:30 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:00:30 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:00:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:00:35 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:00:49 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 40
+2023.01.11 20:00:55 INFO  shutting down Metals
+2023.01.11 20:02:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yanagisawakai/college2022_2/java/.metals/lsp.trace.json or /Users/yanagisawakai/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.01.11 20:02:10 INFO  logging to file /Users/yanagisawakai/college2022_2/java/.metals/metals.log
+2023.01.11 20:02:10 INFO  Started: Metals version 0.11.10 in workspace '/Users/yanagisawakai/college2022_2/java' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/yanagisawakai/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.11 20:02:11 INFO  time: initialize in 1.75s
+2023.01.11 20:02:15 WARN  Build server is not auto-connectable.
+2023.01.11 20:02:15 WARN  no build tool detected in workspace '/Users/yanagisawakai/college2022_2/java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.01.11 20:02:16 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:02:25 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+1月 11, 2023 8:02:34 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 17
+2023.01.11 20:02:46 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:03:34 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 27
+1月 11, 2023 8:03:34 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 31
+2023.01.11 20:03:58 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:04:09 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
