@@ -1827,3 +1827,336 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 2023.01.11 20:03:58 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
 1月 11, 2023 8:04:09 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 情報: Unsupported notification method: $/setTrace
+1月 11, 2023 8:06:08 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 121
+2023.01.11 20:07:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:07:44 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 165
+2023.01.11 20:08:59 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:09:20 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 223
+1月 11, 2023 8:09:50 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 247
+1月 11, 2023 8:09:50 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 246
+2023.01.11 20:10:01 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:10:45 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+2023.01.11 20:10:49 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:10:58 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:11:02 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:11:33 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:11:38 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 333
+1月 11, 2023 8:13:14 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 406
+1月 11, 2023 8:13:20 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 431
+1月 11, 2023 8:16:36 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 894
+2023.01.11 20:17:03 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:17:26 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:17:31 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1048
+1月 11, 2023 8:17:57 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+1月 11, 2023 8:17:58 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+1月 11, 2023 8:18:07 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+1月 11, 2023 8:24:03 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+1月 11, 2023 8:25:07 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+2023.01.11 20:25:15 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:25:17 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:25:19 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:25:39 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+2023.01.11 20:25:45 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:25:51 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:27:25 WARN  Cannot tokenize Java file file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Escape
+	at org.eclipse.jdt.internal.core.util.PublicScanner.scanEscapeCharacter(PublicScanner.java:2906)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1586)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChange(MetalsLanguageServer.scala:1275)
+	at jdk.internal.reflect.GeneratedMethodAccessor6.invoke(null)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+1月 11, 2023 8:27:25 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Escape
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Escape
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Escape
+	at org.eclipse.jdt.internal.core.util.PublicScanner.scanEscapeCharacter(PublicScanner.java:2906)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1586)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:100)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:145)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1809)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+1月 11, 2023 8:27:25 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1161
+1月 11, 2023 8:27:25 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1160
+2023.01.11 20:27:25 WARN  Cannot tokenize Java file file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Escape
+	at org.eclipse.jdt.internal.core.util.PublicScanner.scanEscapeCharacter(PublicScanner.java:2906)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1586)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:60)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1793)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1791)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.01.11 20:27:25 WARN  Cannot tokenize Java file file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:226)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:188)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:136)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChange(MetalsLanguageServer.scala:1275)
+	at jdk.internal.reflect.GeneratedMethodAccessor6.invoke(null)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+1月 11, 2023 8:27:25 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:100)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:145)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1809)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.01.11 20:27:25 WARN  Cannot tokenize Java file file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1793)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1791)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.01.11 20:27:25 WARN  Cannot tokenize Java file file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.RunTestCodeLens.codeLenses(RunTestCodeLens.scala:60)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1793)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1791)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.01.11 20:27:25 WARN  Cannot tokenize Java file file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.javaorg.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_String
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1564)
+	at scala.meta.internal.parsing.JavaTokens$.loop$1(JavaTokens.scala:71)
+	at scala.meta.internal.parsing.JavaTokens$.$anonfun$tokenize$1(JavaTokens.scala:75)
+	at scala.util.Try$.apply(Try.scala:210)
+	at scala.meta.internal.parsing.JavaTokens$.tokenize(JavaTokens.scala:35)
+	at scala.meta.internal.parsing.TokenEditDistance$.apply(TokenEditDistance.scala:370)
+	at scala.meta.internal.metals.Buffers.tokenEditDistance(Buffers.scala:30)
+	at scala.meta.internal.metals.codelenses.SuperMethodCodeLens.codeLenses(SuperMethodCodeLens.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$3(CodeLensProvider.scala:26)
+	at scala.collection.immutable.List.flatMap(List.scala:293)
+	at scala.meta.internal.metals.CodeLensProvider.$anonfun$findLenses$2(CodeLensProvider.scala:26)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$2(MetalsLanguageServer.scala:1793)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeLens$1(MetalsLanguageServer.scala:1791)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2023.01.11 20:27:28 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:14 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:14 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:79: エラー: 式の開始が不正です
+      for()
+          ^
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:81: エラー: 式の開始が不正です
+  }
+  ^
+エラー2個
+2023.01.11 20:28:22 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:22 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java. Output:
+/Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java:80: エラー: ';'がありません
+      return 0
+              ^
+エラー1個
+2023.01.11 20:28:26 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:29 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:29 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:29 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:29 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:30 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:30 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:30 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:30 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:30 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:30 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:30 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:32 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:32 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:33 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:33 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:33 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:44 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:28:46 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:28:59 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+2023.01.11 20:29:04 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:29:05 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:29:06 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1312
+2023.01.11 20:29:09 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:31:25 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+1月 11, 2023 8:31:27 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+2023.01.11 20:31:34 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:31:39 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:36:33 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1367
+2023.01.11 20:37:19 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+1月 11, 2023 8:38:03 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1594
+2023.01.11 20:38:17 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:38:56 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:38:58 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:40:19 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week10/InterfaceFileTester.java
+2023.01.11 20:50:10 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/SpotifyAnalysis.java
+1月 11, 2023 9:23:30 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1766
+1月 11, 2023 9:25:54 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1768
+1月 12, 2023 1:55:04 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1770
+1月 12, 2023 2:12:29 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1832

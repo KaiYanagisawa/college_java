@@ -6,7 +6,8 @@ interface Detail {
   void printInfo();
 
   int getSubjectScore(String sn);
-  // double getAverage();
+  
+  double getAverage();
 }
 
 // 教科クラス
@@ -63,12 +64,26 @@ class StudentAdapter extends Student implements Detail {
   }
 
   public int getSubjectScore(String sn) {
-    return 1;
+    int subjectScore = 0;
+    if (sn == "Math") {
+      subjectScore = sList[0].getPoint();
+    } else if (sn == "English") {
+      subjectScore = sList[1].getPoint();
+    } else if (sn == "Japanese") {
+      subjectScore = sList[2].getPoint();
+    }
+    return subjectScore;
   }
 
-  // public double getAverage() {
-  //     return
-  // }
+  public double getAverage() {
+    double sum = 0;
+    double ave = 0;
+    for (int i = 0; i < sList.length; i++) {
+      sum += sList[i].getPoint();
+    }
+    ave = sum / sList.length;
+    return ave;
+  }
 
   public void printInfo() {
     System.out.println("Name:" + name);
@@ -78,8 +93,7 @@ class StudentAdapter extends Student implements Detail {
         "科目:" +
         s.getSubjectName() +
         " 点数:" +
-        getSubjectScore(s.getSubjectName()) +
-        "\n"
+        getSubjectScore(s.getSubjectName())
       );
     }
   }
@@ -112,6 +126,7 @@ public class InterfaceFileTester {
         };
 
         StudentAdapter student = new StudentAdapter(name, slist);
+        studentList.add(student);
       }
       reader.close();
     } catch (FileNotFoundException e) {
@@ -121,7 +136,7 @@ public class InterfaceFileTester {
     }
     for (StudentAdapter sa : studentList) {
       sa.printInfo();
-      // System.out.println("３教科の平均点:" + sa.getAverage() + "\n");
+      System.out.println("３教科の平均点:" + sa.getAverage() + "\n");
     }
   }
 }
