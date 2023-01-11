@@ -2160,3 +2160,43 @@ Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Invalid_Char_In_
 警告: Unmatched cancel notification for request id 1770
 1月 12, 2023 2:12:29 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 警告: Unmatched cancel notification for request id 1832
+1月 12, 2023 2:16:58 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1853
+1月 12, 2023 2:34:52 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1871
+1月 12, 2023 2:49:18 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1911
+2023.01.12 02:54:52 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week5/ShapeTester.java
+2023.01.12 02:54:54 INFO  time: code lens generation in 2.17s
+2023.01.12 02:55:03 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week5/Rectangle.java
+2023.01.12 02:55:13 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/week5/ShapeTester.java
+1月 12, 2023 2:57:12 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2019
+2023.01.12 02:57:58 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 02:58:00 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/GeneralDatabase.java
+2023.01.12 02:58:30 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/GeneralDatabase.java
+2023.01.12 02:58:37 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/GeneralDatabase.java
+2023.01.12 02:59:23 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 02:59:50 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+1月 12, 2023 3:00:16 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+1月 12, 2023 3:00:21 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2078
+2023.01.12 03:00:26 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 03:00:28 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 03:00:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 03:00:33 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+1月 12, 2023 3:00:39 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+1月 12, 2023 3:00:39 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+1月 12, 2023 3:00:54 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2098
+1月 12, 2023 3:01:38 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+2023.01.12 03:02:03 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 03:02:05 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 03:02:12 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 03:02:21 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/SpotifyAnalysis.java
+2023.01.12 03:03:01 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/SpotifyAnalysis.java
+2023.01.12 03:09:39 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/SpotifyAnalysis.java
