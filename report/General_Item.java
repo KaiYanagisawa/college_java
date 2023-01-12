@@ -21,4 +21,17 @@ public abstract class General_Item {
     abstract void printData();
 }
 
+class Weekly_Item extends General_Item {
+    int weeks_on_chart;
 
+    void printData() {
+        System.out.println("ランキング:" + rank + " アーティスト名:" + artist_names + " 楽曲名:" + track_name + " チャートイン週数:"
+                + weeks_on_chart + " ストリーミング回数:" + streams);
+    }
+}
+
+class Daily_Item extends General_Item {
+    void printData() {
+        
+    }
+}

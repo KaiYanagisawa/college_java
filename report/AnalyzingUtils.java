@@ -1,3 +1,5 @@
+import java.io.*;
+import java.nio.Buffer;
 import java.util.*;
 
 public interface AnalyzingUtils {
@@ -7,52 +9,89 @@ public interface AnalyzingUtils {
 }
 
 class GeneralDatabase {
+
   ArrayList<General_Item> DataList;
 
   void printDatabase() {
+    for (int i = 1; i < DataList.size(); i++) {
+      DataList.get(i).printData();
+    }
   }
 
-  int getTrackRanking(String s) {
+  int getTrackRanking(String kyoku) {
+    return 0;
   }
-  
-  void getTop20Artists() {
-  }
+
+  void getTop20Artists() {}
 }
 
 class WeeklyDatabase extends GeneralDatabase implements AnalyzingUtils {
-  ArrayList<GeneralDatabase> DataList;
+
+  ArrayList<General_Item> DataList = new ArrayList<General_Item>();
 
   public void loadData(String filename) {
+    try {
+      BufferedReader reader = new BufferedReader(new FileReader(filename));
+      String line;
+      int lineNumber = 0;
+      while ((line = reader.readLine()) != null) {
+        String[] s = line.split(",");
+        Weekly_Item songData = new Weekly_Item();
+        if (lineNumber != 0) {
+          songData.rank = Integer.parseInt(s[0]);
+          songData.artist_names = s[2];
+          songData.track_name = s[3];
+          songData.source = s[4];
+          songData.peak_rank = Integer.parseInt(s[5]);
+          songData.previous_rank = Integer.parseInt(s[6]);
+          songData.weeks_on_chart = Integer.parseInt(s[7]);
+          songData.streams = Integer.parseInt(s[8].substring(1, s[8].length()-1));
+        }
+
+        lineNumber++;
+
+        DataList.add(songData);
+      }
+      reader.close();
+    } catch (FileNotFoundException e) {
+      System.out.println(e);
+    } catch (IOException e) {
+      System.out.println(e);
+    }
   }
 
   public int getChartIn(String kyoku) {
+    return 0;
   }
-  
+
   void printDatabase() {
+    for (int i = 0; i < DataList.size(); i++) {
+      DataList.get(i).printData();
+    }
   }
 
   int getTrackRanking(String kyoku) {
+    return 0;
   }
 
-  void getTop20Artists() {
-  }
+  void getTop20Artists() {}
 }
 
 class DailyDatabase extends GeneralDatabase implements AnalyzingUtils {
-  ArrayList<GeneralDatabase> DataList;
 
-  public void loadData(String filename) {
-  }
+  ArrayList<General_Item> DataList;
+
+  public void loadData(String filename) {}
 
   public int getChartIn(String kyoku) {
+    return 0;
   }
-  
-  void printDatabase() {
-  }
+
+  void printDatabase() {}
 
   int getTrackRanking(String kyoku) {
+    return 0;
   }
 
-  void getTop20Artists() {
-  }
+  void getTop20Artists() {}
 }
