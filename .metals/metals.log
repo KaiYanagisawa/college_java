@@ -3718,3 +3718,113 @@ class Daily_Item extends gene
 1月 12, 2023 4:48:34 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 警告: Unmatched cancel notification for request id 9727
 2023.01.12 16:48:37 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+1月 12, 2023 4:50:06 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 9753
+2023.01.12 16:50:19 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:50:20 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/General_Item.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/General_Item.java:34: エラー: <identifier>がありません
+    int 
+       ^
+エラー1個
+2023.01.12 16:50:30 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:50:30 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/General_Item.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/General_Item.java:34: エラー: ';'がありません
+    int days_on_ch
+                  ^
+エラー1個
+2023.01.12 16:50:32 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:50:32 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/General_Item.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/General_Item.java:34: エラー: ';'がありません
+    int days_on_char
+                    ^
+エラー1個
+2023.01.12 16:50:33 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:50:34 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/General_Item.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/General_Item.java:34: エラー: ';'がありません
+    int days_on_chart
+                     ^
+エラー1個
+2023.01.12 16:50:37 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:50:39 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:50:40 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:50:43 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:50:43 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/General_Item.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/General_Item.java:37: エラー: 文ではありません
+        system    
+        ^
+/Users/yanagisawakai/college2022_2/java/report/General_Item.java:37: エラー: ';'がありません
+        system    
+              ^
+エラー2個
+2023.01.12 16:50:47 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:50:54 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:50:56 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:50:58 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:51:04 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:51:06 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:52:01 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:52:27 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:52:30 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:52:32 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:52:34 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:52:38 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.12 16:53:06 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:53:09 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:53:12 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+1月 12, 2023 4:53:49 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 10021
+1月 12, 2023 4:54:04 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 10039
+2023.01.12 16:54:32 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:54:34 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:54:41 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:54:43 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:54:44 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+1月 12, 2023 4:54:47 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 10113
+2023.01.12 16:54:52 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:54:54 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+1月 12, 2023 4:54:59 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 10141
+1月 12, 2023 4:56:46 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 10230
+2023.01.12 16:57:55 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:57:55 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:83: エラー: 式の開始が不正です
+  ArrayList<General_Item> DataList =;
+                                    ^
+エラー1個
+1月 12, 2023 4:57:56 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 10287
+2023.01.12 16:57:58 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:57:59 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:83: エラー: <identifier>がありません
+  ArrayList<General_Item> DataList =new 
+                                       ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:85: エラー: '('または'['がありません
+  public void loadData(String filename) {
+  ^
+エラー2個
+2023.01.12 16:58:04 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:58:04 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:85: エラー: 型の開始が不正です
+  public void loadData(String filename) {
+  ^
+エラー1個
+2023.01.12 16:58:07 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:58:08 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:85: エラー: >がありません
+  public void loadData(String filename) {
+  ^
+エラー1個
+2023.01.12 16:58:10 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:58:11 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:83: エラー: '('または'['がありません
+  ArrayList<General_Item> DataList =new ArrayList<General_Item>;
+                                                               ^
+エラー1個
+2023.01.12 16:58:12 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.12 16:59:10 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+1月 12, 2023 4:59:37 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 10388
+2023.01.12 16:59:40 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
