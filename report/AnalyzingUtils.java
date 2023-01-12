@@ -47,11 +47,10 @@ class WeeklyDatabase extends GeneralDatabase implements AnalyzingUtils {
           songData.weeks_on_chart = Integer.parseInt(s[7]);
           songData.streams =
             Integer.parseInt(s[8].substring(1, s[8].length() - 1));
+
+          DataList.add(songData);
         }
-
         lineNumber++;
-
-        DataList.add(songData);
       }
       reader.close();
     } catch (FileNotFoundException e) {
@@ -66,7 +65,7 @@ class WeeklyDatabase extends GeneralDatabase implements AnalyzingUtils {
   }
 
   void printDatabase() {
-    for (int i = 1; i < DataList.size(); i++) {
+    for (int i = 0; i < DataList.size(); i++) {
       DataList.get(i).printData();
     }
   }
@@ -75,7 +74,55 @@ class WeeklyDatabase extends GeneralDatabase implements AnalyzingUtils {
     return 0;
   }
 
-  void getTop20Artists() {}
+  void getTop20Artists() {
+    ArrayList<Artists> artists = new ArrayList<Artists>();
+    for (int i = 0; i < DataList.size(); i++) {
+      if (artists.size() == 0) {
+        Artists a = new Artists(
+          DataList.get(i).artist_names,
+          DataList.get(i).streams
+        );
+        artists.add(a);
+      } else {
+        for (int j = 0; j < artists.size(); j++) {
+          if (DataList.get(i).artist_names.equals(artists.get(j).artist)) {
+            artists.get(j).streamsSum += DataList.get(i).streams;
+          }
+        }
+        Artists tempArtist = new Artists(
+          DataList.get(i).artist_names,
+          DataList.get(i).streams
+        );
+        artists.add(tempArtist);
+      }
+    }
+
+    ArrayList<Artists> sortArtists = new ArrayList<Artists>();
+    for (int i = 0; i < artists.size() - 1; i++) {
+      Artists topArtists = new Artists(
+        artists.get(i).artist,
+        artists.get(i).streamsSum
+      );
+      for (int j = i + 1; j < artists.size(); j++) {
+        if (artists.get(j).streamsSum > topArtists.streamsSum) {
+          topArtists.artist = artists.get(j).artist;
+          topArtists.streamsSum = artists.get(j).streamsSum;
+        }
+      }
+      sortArtists.add(topArtists);
+    }
+
+    for (int i = 0; i < 20; i++) {
+      System.out.println(
+        i +
+        1 +
+        ":" +
+        sortArtists.get(i).artist +
+        ":" +
+        sortArtists.get(i).streamsSum
+      );
+    }
+  }
 }
 
 class DailyDatabase extends GeneralDatabase implements AnalyzingUtils {
@@ -100,11 +147,11 @@ class DailyDatabase extends GeneralDatabase implements AnalyzingUtils {
           songData.days_on_chart = Integer.parseInt(s[7]);
           songData.streams =
             Integer.parseInt(s[8].substring(1, s[8].length() - 1));
+
+          DataList.add(songData);
         }
 
         lineNumber++;
-
-        DataList.add(songData);
       }
       reader.close();
     } catch (FileNotFoundException e) {
@@ -119,7 +166,7 @@ class DailyDatabase extends GeneralDatabase implements AnalyzingUtils {
   }
 
   void printDatabase() {
-    for (int i = 1; i < DataList.size(); i++) {
+    for (int i = 0; i < DataList.size(); i++) {
       DataList.get(i).printData();
     }
   }

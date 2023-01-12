@@ -1,3 +1,5 @@
+import java.util.*;
+
 public abstract class General_Item {
 
   int rank;
@@ -60,3 +62,15 @@ class Daily_Item extends General_Item {
     );
   }
 }
+
+class Artists {
+
+  String artist;
+  int streamsSum;
+
+  Artists(String a, int s) {
+    artist = a;
+    streamsSum = s;
+  }
+}
+
