@@ -84,34 +84,40 @@ class WeeklyDatabase extends GeneralDatabase implements AnalyzingUtils {
         );
         artists.add(a);
       } else {
+        boolean equals = false;
         for (int j = 0; j < artists.size(); j++) {
           if (DataList.get(i).artist_names.equals(artists.get(j).artist)) {
             artists.get(j).streamsSum += DataList.get(i).streams;
+            equals = true;
           }
         }
-        Artists tempArtist = new Artists(
-          DataList.get(i).artist_names,
-          DataList.get(i).streams
-        );
-        artists.add(tempArtist);
+        if (!equals) {
+          Artists tempArtist = new Artists(
+            DataList.get(i).artist_names,
+            DataList.get(i).streams
+          );
+          artists.add(tempArtist);
+        }
       }
     }
 
-    ArrayList<Artists> sortArtists = new ArrayList<Artists>();
+    //sort
+    ArrayList<Artists> sortArtists = artists;
     for (int i = 0; i < artists.size() - 1; i++) {
       Artists topArtists = new Artists(
         artists.get(i).artist,
         artists.get(i).streamsSum
       );
+      int max = i;
       for (int j = i + 1; j < artists.size(); j++) {
-        if (artists.get(j).streamsSum > topArtists.streamsSum) {
-          topArtists.artist = artists.get(j).artist;
-          topArtists.streamsSum = artists.get(j).streamsSum;
+        if (artists.get(j).streamsSum > artists.get(max).streamsSum) {
+          max = j;
         }
       }
-      sortArtists.add(topArtists);
+      Collections.swap(sortArtists, i, max);
     }
 
+    //print_top20_artists
     for (int i = 0; i < 20; i++) {
       System.out.println(
         i +
@@ -175,5 +181,59 @@ class DailyDatabase extends GeneralDatabase implements AnalyzingUtils {
     return 0;
   }
 
-  void getTop20Artists() {}
+  void getTop20Artists() {
+    ArrayList<Artists> artists = new ArrayList<Artists>();
+    for (int i = 0; i < DataList.size(); i++) {
+      if (artists.size() == 0) {
+        Artists a = new Artists(
+          DataList.get(i).artist_names,
+          DataList.get(i).streams
+        );
+        artists.add(a);
+      } else {
+        boolean equals = false;
+        for (int j = 0; j < artists.size(); j++) {
+          if (DataList.get(i).artist_names.equals(artists.get(j).artist)) {
+            artists.get(j).streamsSum += DataList.get(i).streams;
+            equals = true;
+          }
+        }
+        if (!equals) {
+          Artists tempArtist = new Artists(
+            DataList.get(i).artist_names,
+            DataList.get(i).streams
+          );
+          artists.add(tempArtist);
+        }
+      }
+    }
+
+    //sort
+    ArrayList<Artists> sortArtists = artists;
+    for (int i = 0; i < artists.size() - 1; i++) {
+      Artists topArtists = new Artists(
+        artists.get(i).artist,
+        artists.get(i).streamsSum
+      );
+      int max = i;
+      for (int j = i + 1; j < artists.size(); j++) {
+        if (artists.get(j).streamsSum > artists.get(max).streamsSum) {
+          max = j;
+        }
+      }
+      Collections.swap(sortArtists, i, max);
+    }
+
+    //print_top20_artists
+    for (int i = 0; i < 20; i++) {
+      System.out.println(
+        i +
+        1 +
+        ":" +
+        sortArtists.get(i).artist +
+        ":" +
+        sortArtists.get(i).streamsSum
+      );
+    }
+  }
 }
