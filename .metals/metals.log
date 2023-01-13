@@ -9760,3 +9760,6 @@ SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
 警告: Unmatched cancel notification for request id 1282
 1月 13, 2023 11:38:46 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 情報: Unsupported notification method: $/setTrace
+1月 13, 2023 4:01:03 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1364
+2023.01.13 16:01:10 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java

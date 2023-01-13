@@ -174,10 +174,6 @@ class WeeklyDatabase extends GeneralDatabase implements AnalyzingUtils {
     //sort
     ArrayList<Artists> sortArtists = artists;
     for (int i = 0; i < artists.size() - 1; i++) {
-      Artists topArtists = new Artists(
-        artists.get(i).artist,
-        artists.get(i).streamsSum
-      );
       int max = i;
       for (int j = i + 1; j < artists.size(); j++) {
         if (artists.get(j).streamsSum > artists.get(max).streamsSum) {
@@ -291,10 +287,6 @@ class DailyDatabase extends GeneralDatabase implements AnalyzingUtils {
     //sort
     ArrayList<Artists> sortArtists = artists;
     for (int i = 0; i < artists.size() - 1; i++) {
-      Artists topArtists = new Artists(
-        artists.get(i).artist,
-        artists.get(i).streamsSum
-      );
       int max = i;
       for (int j = i + 1; j < artists.size(); j++) {
         if (artists.get(j).streamsSum > artists.get(max).streamsSum) {
