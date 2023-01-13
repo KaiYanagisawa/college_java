@@ -8998,3 +8998,765 @@ Caused by: java.lang.ArrayIndexOutOfBoundsException: Index -1 out of bounds for 
 2023.01.13 03:27:23 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
 2023.01.13 03:27:24 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
 2023.01.13 03:27:27 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 03:31:26 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 03:31:30 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+1月 13, 2023 3:35:30 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 12615
+1月 13, 2023 10:10:54 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 12625
+2023.01.13 10:13:34 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:13:35 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: ';'がありません
+    return 0
+            ^
+エラー1個
+2023.01.13 10:13:35 INFO  time: code lens generation in 1.43s
+2023.01.13 10:13:36 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+1月 13, 2023 10:13:49 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 12677
+2023.01.13 10:13:57 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.13 10:13:58 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.13 10:14:04 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.13 10:15:01 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:15:02 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: 式の開始が不正です
+    for()
+        ^
+エラー1個
+2023.01.13 10:15:14 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:15:15 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: 文ではありません
+    for(Arti)
+        ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: ';'がありません
+    for(Arti)
+            ^
+エラー2個
+2023.01.13 10:15:17 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:15:17 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: 文ではありません
+    for(Artis)
+        ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: ';'がありません
+    for(Artis)
+             ^
+エラー2個
+2023.01.13 10:15:18 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:15:18 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: 文ではありません
+    for(Artist)
+        ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: ';'がありません
+    for(Artist)
+              ^
+エラー2個
+2023.01.13 10:15:23 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:15:24 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: 式の開始が不正です
+    for()
+        ^
+エラー1個
+2023.01.13 10:15:34 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:15:34 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: 文ではありません
+    for(General_Item)
+        ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: ';'がありません
+    for(General_Item)
+                    ^
+エラー2個
+2023.01.13 10:15:37 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:15:38 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: 文ではありません
+    for(General_Item )
+        ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: ';'がありません
+    for(General_Item )
+                    ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: 式の開始が不正です
+    for(General_Item )
+                     ^
+エラー3個
+2023.01.13 10:15:40 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:15:40 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: ';'がありません
+    for(General_Item g)
+                      ^
+エラー1個
+2023.01.13 10:15:42 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:15:42 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: ';'がありません
+    for(General_Item gen)
+                        ^
+エラー1個
+2023.01.13 10:15:44 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:15:44 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:74: エラー: 式の開始が不正です
+    for(General_Item gen:)
+                         ^
+エラー1個
+2023.01.13 10:15:49 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:15:52 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:15:53 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:15:56 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:16:07 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:16:08 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:75: エラー: 文ではありません
+      gen
+      ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:75: エラー: ';'がありません
+      gen
+         ^
+エラー2個
+2023.01.13 10:16:20 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:16:21 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:75: エラー: <identifier>がありません
+      if(gen.)
+             ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:76: エラー: 文の開始が不正です
+    }
+    ^
+エラー2個
+2023.01.13 10:16:46 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:16:47 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:76: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:16:51 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:16:52 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:76: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:17:02 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:17:02 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:75: エラー: <identifier>がありません
+      if(gen.)
+             ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:76: エラー: 文の開始が不正です
+    }
+    ^
+エラー2個
+2023.01.13 10:17:03 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:17:04 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:76: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:17:06 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:17:06 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:75: エラー: <identifier>がありません
+      if(gen.)
+             ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:76: エラー: 文の開始が不正です
+    }
+    ^
+エラー2個
+2023.01.13 10:17:14 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:17:15 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:76: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:17:16 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:17:17 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:76: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:17:18 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:17:18 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:76: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:17:21 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:17:21 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:75: エラー: <identifier>がありません
+      if(gen.)
+             ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:76: エラー: 文の開始が不正です
+    }
+    ^
+エラー2個
+2023.01.13 10:17:23 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:17:24 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:76: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:17:26 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:17:27 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:76: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:17:28 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:17:29 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:76: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:17:35 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:17:35 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:76: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:17:43 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:17:48 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:18:02 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:18:03 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:75: エラー: ';'がありません
+      int ranking
+                 ^
+エラー1個
+2023.01.13 10:18:04 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:18:10 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:18:11 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:77: エラー: 文ではありません
+        ranking
+        ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:77: エラー: ';'がありません
+        ranking
+               ^
+エラー2個
+2023.01.13 10:18:11 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:18:12 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:78: エラー: 式の開始が不正です
+      }
+      ^
+エラー1個
+2023.01.13 10:18:16 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:18:16 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:78: エラー: 式の開始が不正です
+      }
+      ^
+エラー1個
+1月 13, 2023 10:18:34 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 13055
+2023.01.13 10:18:36 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:18:38 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:18:39 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:77: エラー: ';'がありません
+        ranking=ge
+                  ^
+エラー1個
+2023.01.13 10:18:40 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:18:40 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:77: エラー: <identifier>がありません
+        ranking=gen.
+                    ^
+エラー1個
+2023.01.13 10:18:57 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:18:58 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:77: エラー: ';'がありません
+        ranking=gen.rank
+                        ^
+エラー1個
+2023.01.13 10:19:00 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:19:07 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:19:08 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:19:15 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:19:24 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:20:10 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:20:12 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:20:19 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:20:20 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:20:25 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:20:26 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:199: エラー: 文ではありません
+    return ranking;ï
+                   ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:199: エラー: ';'がありません
+    return ranking;ï
+                    ^
+エラー2個
+2023.01.13 10:20:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:21:29 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:21:29 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:183: エラー: 文ではありません
+    int 
+    ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:183: エラー: ';'がありません
+    int 
+       ^
+エラー2個
+2023.01.13 10:21:33 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:21:34 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:183: エラー: ';'がありません
+    int chart
+             ^
+エラー1個
+2023.01.13 10:21:38 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:21:41 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:21:42 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:184: エラー: 式の開始が不正です
+    for()
+        ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:185: エラー: 文の開始が不正です
+  }
+  ^
+エラー2個
+2023.01.13 10:21:48 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:21:48 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:184: エラー: 式の開始が不正です
+    for(General_Item gen:)
+                         ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:185: エラー: 文の開始が不正です
+  }
+  ^
+エラー2個
+2023.01.13 10:21:51 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:21:51 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:185: エラー: 文の開始が不正です
+  }
+  ^
+エラー1個
+2023.01.13 10:21:55 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:21:56 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:185: エラー: <identifier>がありません
+      if(gen.)
+             ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:186: エラー: 文の開始が不正です
+    }
+    ^
+エラー2個
+2023.01.13 10:22:33 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:22:33 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:186: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:22:35 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:22:35 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:185: エラー: <identifier>がありません
+      if(gen.)
+             ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:186: エラー: 文の開始が不正です
+    }
+    ^
+エラー2個
+2023.01.13 10:22:37 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:22:37 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:186: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:22:38 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:22:38 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:185: エラー: <identifier>がありません
+      if(gen.)
+             ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:186: エラー: 文の開始が不正です
+    }
+    ^
+エラー2個
+2023.01.13 10:23:23 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:23:24 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:186: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:23:29 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:23:30 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:186: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:23:32 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:23:32 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:186: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:23:36 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:23:36 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:186: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:23:38 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:23:39 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:186: エラー: 文の開始が不正です
+    }
+    ^
+エラー1個
+2023.01.13 10:23:40 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+1月 13, 2023 10:25:29 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 13558
+2023.01.13 10:25:53 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:25:55 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:184: エラー: for-loopの不正な初期化子
+    for( gen:DataList){
+         ^
+エラー1個
+2023.01.13 10:25:56 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:26:00 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+1月 13, 2023 10:30:44 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 13740
+1月 13, 2023 10:36:31 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 13776
+2023.01.13 10:36:32 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+1月 13, 2023 10:36:58 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 13814
+2023.01.13 10:37:00 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+1月 13, 2023 10:37:01 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 13822
+2023.01.13 10:37:10 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:37:12 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:38:47 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:38:52 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:38:52 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:185: エラー: 文ではありません
+      da
+      ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:185: エラー: ';'がありません
+      da
+        ^
+エラー2個
+2023.01.13 10:38:54 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:38:55 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:185: エラー: 文ではありません
+      Daily_Item 
+      ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:185: エラー: ';'がありません
+      Daily_Item 
+                ^
+エラー2個
+1月 13, 2023 10:38:56 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 13961
+2023.01.13 10:38:57 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:38:58 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:186: エラー: 式の開始が不正です
+      if(gen.days_on_chart.equals(kyoku)){
+      ^
+エラー1個
+2023.01.13 10:39:00 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:39:26 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:40:12 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+2023.01.13 10:40:16 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+1月 13, 2023 10:40:23 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 14063
+1月 13, 2023 10:40:37 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 14072
+2023.01.13 10:46:49 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:46:54 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:46:55 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:46:56 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:31: エラー: ';'がありません
+  void getTop20Artists() 
+                        ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:33: エラー: class, interface, enumまたはrecordがありません
+}
+^
+エラー2個
+2023.01.13 10:46:59 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:47:00 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+1月 13, 2023 10:47:00 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 14271
+2023.01.13 10:47:08 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:47:45 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:47:46 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:47:53 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:47:56 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:47:56 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:238: エラー: 式の開始が不正です
+  }
+  ^
+エラー1個
+2023.01.13 10:47:58 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:47:59 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:238: エラー: '.class'がありません
+  }
+  ^
+エラー1個
+2023.01.13 10:48:01 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:06 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:06 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:237: エラー: ';'がありません
+    int chartIn
+               ^
+エラー1個
+2023.01.13 10:48:08 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:11 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+1月 13, 2023 10:48:20 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 14417
+2023.01.13 10:48:20 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:20 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:124: エラー: 文ではありません
+    int 
+    ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:124: エラー: ';'がありません
+    int 
+       ^
+エラー2個
+2023.01.13 10:48:24 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:24 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:124: エラー: ';'がありません
+    int chartIn
+               ^
+エラー1個
+2023.01.13 10:48:28 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:28 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:29 INFO  time: code lens generation in 1.59s
+2023.01.13 10:48:32 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:33 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:42 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:43 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: 文ではありません
+    data
+    ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: ';'がありません
+    data
+        ^
+エラー2個
+2023.01.13 10:48:43 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:44 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: 文ではありません
+    DataList
+    ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: ';'がありません
+    DataList
+            ^
+エラー2個
+2023.01.13 10:48:45 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:45 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: <identifier>がありません
+    DataList.
+             ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: 文ではありません
+    DataList.
+            ^
+エラー2個
+2023.01.13 10:48:49 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:49 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: 文ではありません
+    DataList.get
+            ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: ';'がありません
+    DataList.get
+                ^
+エラー2個
+2023.01.13 10:48:50 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:50 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: ';'がありません
+    DataList.get()
+                  ^
+エラー1個
+2023.01.13 10:48:52 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:52 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: ';'がありません
+    DataList.get(0)
+                   ^
+エラー1個
+2023.01.13 10:48:53 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:48:54 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: <identifier>がありません
+    DataList.get(0).
+                    ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: 文ではありません
+    DataList.get(0).
+                   ^
+エラー2個
+2023.01.13 10:52:36 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:52:36 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:122: エラー: <identifier>がありません
+    DataList.get(0).
+                    ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:122: エラー: 文ではありません
+    DataList.get(0).
+                   ^
+エラー2個
+2023.01.13 10:52:39 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:52:39 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:15: エラー: ';'がありません
+  void printDatabase() 
+                      ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:121: エラー: <identifier>がありません
+    DataList.get(0).
+                    ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:121: エラー: 文ではありません
+    DataList.get(0).
+                   ^
+エラー3個
+2023.01.13 10:52:53 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:52:54 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: ';'がありません
+    DataList.get(0)
+                   ^
+エラー1個
+2023.01.13 10:52:56 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:52:57 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: <identifier>がありません
+    DataList.get(0).
+                    ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: 文ではありません
+    DataList.get(0).
+                   ^
+エラー2個
+2023.01.13 10:52:58 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:52:57 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:122: エラー: <identifier>がありません
+    DataList.get(0).
+                    ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:122: エラー: 文ではありません
+    DataList.get(0).
+                   ^
+エラー2個
+2023.01.13 10:53:04 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:53:04 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:16: エラー: '\u00b8'は不正な文字です
+¸  }
+^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:122: エラー: <identifier>がありません
+    DataList.get(0).
+                    ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:122: エラー: 文ではありません
+    DataList.get(0).
+                   ^
+エラー3個
+2023.01.13 10:53:07 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:53:07 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:122: エラー: <identifier>がありません
+    DataList.get(0).
+                    ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:122: エラー: 文ではありません
+    DataList.get(0).
+                   ^
+エラー2個
+2023.01.13 10:53:18 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 10:53:18 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: <identifier>がありません
+    DataList.get(0).
+                    ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: 文ではありません
+    DataList.get(0).
+                   ^
+エラー2個
+1月 13, 2023 10:53:51 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+1月 13, 2023 10:53:55 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 14683
+1月 13, 2023 10:54:53 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 14714
+1月 13, 2023 10:59:07 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 14789
+1月 13, 2023 10:59:07 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 14790
+1月 13, 2023 10:59:07 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 14791
+1月 13, 2023 10:59:12 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 14806
+2023.01.13 10:59:39 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 11:02:14 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 11:02:15 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: 文ではありません
+    DataList.get(0).weeks_on_chart;
+                   ^
+エラー1個
+2023.01.13 11:03:06 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 11:03:06 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: 文ではありません
+    for(int =0;)
+        ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: ';'がありません
+    for(int =0;)
+           ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: 式の開始が不正です
+    for(int =0;)
+            ^
+エラー3個
+2023.01.13 11:05:51 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 11:05:52 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: 文ではありません
+    weekly_I
+    ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: ';'がありません
+    weekly_I
+            ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:126: エラー: 文ではありません
+    for(int =0;)
+        ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:126: エラー: ';'がありません
+    for(int =0;)
+           ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:126: エラー: 式の開始が不正です
+    for(int =0;)
+            ^
+エラー5個
+1月 13, 2023 11:06:34 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 15173
+2023.01.13 11:07:03 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 11:07:04 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:126: エラー: 文ではありません
+    for(int =0;)
+        ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:126: エラー: ';'がありません
+    for(int =0;)
+           ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:126: エラー: 式の開始が不正です
+    for(int =0;)
+            ^
+エラー3個
+1月 13, 2023 11:07:17 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 15228
+1月 13, 2023 11:07:24 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 15237
+1月 13, 2023 11:08:59 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 15310
+2023.01.13 11:09:37 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 11:09:38 WARN  Running javac-semanticdb failed for file:///Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java. Output:
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:125: エラー: 文ではありません
+    DataList.get(0).weeks_on_chart;
+                   ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:126: エラー: 文ではありません
+    for(int =0;)
+        ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:126: エラー: ';'がありません
+    for(int =0;)
+           ^
+/Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java:126: エラー: 式の開始が不正です
+    for(int =0;)
+            ^
+エラー4個
+1月 13, 2023 11:10:02 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 15403
+2023.01.13 11:10:55 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 11:11:05 INFO  shutting down Metals
+2023.01.13 11:11:30 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/yanagisawakai/college2022_2/java/.metals/lsp.trace.json or /Users/yanagisawakai/Library/Caches/org.scalameta.metals/lsp.trace.json
+2023.01.13 11:11:32 INFO  logging to file /Users/yanagisawakai/college2022_2/java/.metals/metals.log
+2023.01.13 11:11:32 INFO  Started: Metals version 0.11.10 in workspace '/Users/yanagisawakai/college2022_2/java' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/yanagisawakai/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.13 11:11:34 INFO  time: initialize in 2.31s
+2023.01.13 11:11:36 WARN  Build server is not auto-connectable.
+2023.01.13 11:11:36 WARN  no build tool detected in workspace '/Users/yanagisawakai/college2022_2/java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.01.13 11:11:36 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 11:13:31 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+1月 13, 2023 11:13:32 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 8
+2023.01.13 11:15:00 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/General_Item.java
+1月 13, 2023 11:15:24 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+1月 13, 2023 11:15:39 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 220
+2023.01.13 11:20:49 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 11:22:33 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+1月 13, 2023 11:22:43 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace
+1月 13, 2023 11:25:24 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 700
+1月 13, 2023 11:26:34 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 748
+2023.01.13 11:36:09 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+2023.01.13 11:37:36 WARN  no build target for: /Users/yanagisawakai/college2022_2/java/report/AnalyzingUtils.java
+1月 13, 2023 11:37:38 午前 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1282
+1月 13, 2023 11:38:46 午前 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTrace

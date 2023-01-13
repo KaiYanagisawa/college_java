@@ -21,6 +21,8 @@ public abstract class General_Item {
   }
 
   abstract void printData();
+
+  abstract int getChart();
 }
 
 class Weekly_Item extends General_Item {
@@ -40,6 +42,10 @@ class Weekly_Item extends General_Item {
       " ストリーミング回数:" +
       streams
     );
+  }
+
+  int getChart() {
+    return weeks_on_chart;
   }
 }
 
@@ -61,6 +67,10 @@ class Daily_Item extends General_Item {
       streams
     );
   }
+
+  int getChart() {
+    return days_on_chart;
+  }
 }
 
 class Artists {
@@ -73,4 +83,3 @@ class Artists {
     streamsSum = s;
   }
 }
-
